@@ -1,0 +1,43 @@
+body {
+    background-image: url(/images/hudson.jpg);
+    background-repeat: no-repeat;
+    background-size: 450px 1000px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    justify-items: right;
+}
+
+h1 {
+    color: black;
+	-webkit-text-stroke: 1px rgb(0, 64, 255);
+	text-shadow: 0px 4px 8px rgb(255, 0, 0);
+    font-size: 2em;
+    text-align: center;
+}
+
+.sub h2, p {
+    font-weight: bold;
+}
+
+h2 {
+    color: black;
+    font-size: 1em;
+    margin-right: 2em;
+}
+
+p {
+    color: whitesmoke;
+    font-size: .8em;
+    margin-right: 5.5em;
+}
+
+.link {
+    pointer-events: none;
+ }
+
+ img {
+    margin-right: 3.5em;
+ }
+
+ .fb {
+    color: whitesmoke;
+ }
