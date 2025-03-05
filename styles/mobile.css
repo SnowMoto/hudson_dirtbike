@@ -1,5 +1,5 @@
 body {
-    background-image: url("/images/hudson.jpg");
+    background-image: url("../images/hudson.jpg");
     background-repeat: no-repeat;
     background-size: 450px 1000px;
     font-family: 'Barlow Semi Condensed', sans-serif;
